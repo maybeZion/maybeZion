@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @maybeZion, a web developer currently freelancing through Upwork.
+- 👀 I’m interested in cybersecurity, Unix, and classic roguelikes.
+- 🌱 I’m currently learning web development through The Odin Project.
+- 💞️ I’m looking to collaborate on Python and C/C++ projects.
+- 📫 How to reach me: ezion@protonmail.com
